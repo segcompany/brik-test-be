@@ -14,6 +14,7 @@ async function list(query={}) {
               .orWhere('categories.name', 'ilike', `%${query.q}%`);
         }
       })
+      .orderBy('products.created_at', 'DESC')
       .page(query.page || 0, query.count||10);
 }
 
