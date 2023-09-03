@@ -10,7 +10,7 @@ exports.up = async function(knex) {
     table.decimal('width', 8, 2);
     table.decimal('length', 8, 2);
     table.decimal('height', 8, 2);
-    table.decimal('price');
+    table.decimal('price', 15, 2);
     table.text('image');
     table.timestamp('created_at').defaultTo(knex.fn.now());
     table.timestamp('updated_at').defaultTo(knex.fn.now());
