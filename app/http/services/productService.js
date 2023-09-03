@@ -9,7 +9,9 @@ async function list(query={}) {
   return await ProductModel.query().modify('list')
       .where((builder)=> {
         if (query.q) {
-          builder.where('products.name', 'ilike', `%${query.q}%`);
+          builder.where('products.name', 'ilike', `%${query.q}%`)
+              .orWhere('products.sku', 'ilike', `%${query.q}%`)
+              .orWhere('categories.name', 'ilike', `%${query.q}%`);
         }
       })
       .page(query.page || 0, query.count||10);

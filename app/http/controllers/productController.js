@@ -5,7 +5,6 @@ const productService = require('../services/productService');
 
 
 async function list(req, res) {
-  console.log(req.query);
   const data = await productService.list(req.query);
   return SuccessResult.make(res).send(data);
 }
@@ -16,7 +15,6 @@ async function detail(req, res) {
 }
 
 async function insert(req, res) {
-//   const file = req.files.file;
   const body = req.fields;
 
   if (req.files.file) {
