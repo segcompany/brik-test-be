@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "perhitunganair",
+  "private_key_id": "2f4ab9b995e73aee2fb1006c03a03d26e684cb6f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+5z15SxVUVg7i\nNHkGlkF3ZqrEQyj6TPu+W0CYDsNlmkbj8lbLWgapmtoVnw1pzH5oUeJ+go7T8W4R\nwaIWZ+JwUrgrlYzm9NYVDCtpAIMOGA2U0bYIkeC5zYRZrjzqCtHaJGA1uEOUOR30\nE2UpaiaNr3WpT86kkagttUL2gq/LtQEF8cnsfywwpK3t5hDhEgYTNd8hj2/aCfFb\ncnskXESqD9b5N6MzhejPjfkIc8ixR1Oyq+aIUIyAxwK6cYjGuwvJRyFdnzVBQEwF\nnMmtH/jwrKv5MzHT2PKuyc5uyPL2d1p7rO4fsT1WgEkXSifVRXe5FnB/2FG+RHHF\nKV+rrlQJAgMBAAECggEAA2KCOoZUSHyGIwifJLjBTGarnHM8ZMO8qvFfQdLxL/n+\nS8heNZjRCWzPdRau3DNeAmeBRpD2C1f6haITR6Zr42X0EgHCz82DhjgDBQeXS0at\n5veY7Kn5fBHiyNxIBDZQ5jdC5XDw8c3ZdBxr7MIPEPANfAUIOu7CNp1CJLDIgSoa\nj6hBsqjVwbUCtkOoRE9O8wQUVVL4XIZTTeO0NyvgVv30i7PuIfvkttZxO7UoIJLp\nm6bWr9klYwfIl4cihb6BhJ5tSby7BNp+Huvdfm/5pg2snTFrWTrOGnbpvwBtr+gt\nAmqurdUbAQojvU3RgieK7i2ybS1bsb69PoHLTHbMyQKBgQDu1OtERRrfqHzFf8HJ\nukut+fKammtgqkHuRctLAGv9yTmYuMW5Tl7pXZlu3DqyTVYQUIrOnAWcKwPk+Oc5\nBqhAxq41i2Ff3e2nOyHcdNotGdWhPqsQm/kvsxZ4rOBpiQT6mlkDvJ3h6jMXNdEX\ne+QRsdR41TKX7a8zr9scEroD1wKBgQDMoFJzYvp1Y9sl1gvtRbY0VkhCA/1apNW1\nfPoAXFFSJKCW5EAo7DJM1UfNHSfwjnQWUNjB2dLRc+g2JEydGw4b1htddwd4gkYX\neyv22MZwLxz0EOLHMFmFBEn7AjNKWFPFF5eHkyaPYlsff0/oQjyWjtSPfN7Qe+N0\ncgw2wztrHwKBgQCMAQDRinkQd2J9HEFrkevfVtBi1PbxOZ1gokVj+CFWKmm7H0W5\nNTnqL1ZMaIl4EGHNOonESC35uDWWOlrBUSe8oTtqZAR3AE/aYo2dAFsNaUGUPnpl\nSCmxTphzsVP0ScBDb8uSpzUeQ/4jMwcZbyTpQoe9Na1s5oZ4FDSrpkapDQKBgA8H\n38aWCKvC0AAxfuLI8h9aDyi6PkwAO6p/KaYJIfgUtK8gyQ24e+Fk8UdB0wM6k5Bo\nE+P5aiD0kKQZen8304t76Lqu2Z+igh+LbqlNNxZaf5f1/ZKAHLNGo2CKwtW9MzoR\nB5Jv3q89nE/t/CKlaunsR/TaSUurLgQJtJf5M04lAoGAdVIxuMKQLubMJxhwBuYJ\nqYiNqIof9mywk3Yt0jH6J9fuGdBLhaUi7uC23IRaZi5svz3MxKd+Jc6JWJnKhYdq\nzwueGGHnC5O/xFunNCuJK3iX+mvbRh0jifAppYqR8mf0p1IC9Yg87R63EGbeHaOn\nTs6d/uNUt65xnYGCP+EbyMo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-y6el4@perhitunganair.iam.gserviceaccount.com",
+  "client_id": "102517217287675522188",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-y6el4%40perhitunganair.iam.gserviceaccount.com"
+}
